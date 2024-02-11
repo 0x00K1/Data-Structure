@@ -1,4 +1,4 @@
-// @Savvx01
+// @0x00K1
 package Lecture;
 
 class LinkedList<E> {
