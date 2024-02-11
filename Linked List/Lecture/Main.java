@@ -3,7 +3,7 @@ package Lecture;
 
 public class Main {
 	public static void main(String[] args) {
-		// LinkedList list = new LinkedList(); // Generic object list, accept any data type.
+	// LinkedList list = new LinkedList(); // Generic object list, accept any data type.
         LinkedList<String> list = new LinkedList<>(); // String object list, for providing type safety.
 		
         // Add elements
