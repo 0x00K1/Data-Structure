@@ -139,7 +139,7 @@ class LinkedList<E> {
     }
 
 	private static class Node<E> {
-		/*	      Node					  Node
+		/*	      Node		      Node
 			+-------------+         +-------------+    
 			| data | next - - - - - > data | next - - - - - > . . - - - - - > NULL
 			+-------------+         +-------------+ 
