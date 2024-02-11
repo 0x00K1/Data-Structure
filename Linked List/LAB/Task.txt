@@ -1,3 +1,4 @@
+@LinkedList
 1. Create LinkedList class. Apply all the following operations:
 •	addFirst:  to add new node to the beginning of the linked list.
 •	addLast: to add new node to the end of the linked list.
